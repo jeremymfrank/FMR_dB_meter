@@ -1,1 +1,0 @@
-com.fmr.dbmeter:drawable/ic_launcher = 0x7f010000

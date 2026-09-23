@@ -1,7 +1,0 @@
-#Wed Sep 23 13:09:55 UTC 2026
-base.1=/home/runner/work/FMR_dB_meter/FMR_dB_meter/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
-path.1=11/classes.dex
-base.0=/home/runner/work/FMR_dB_meter/FMR_dB_meter/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=0/classes.dex
